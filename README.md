@@ -1,6 +1,6 @@
 # IronDash
 
-A dashboard to help bootcamp students to follow their studies and progress
+A dashboard to help bootcamp students to follow their studies and progress.
 
 
 ## Try it
@@ -11,6 +11,7 @@ https://irondash.herokuapp.com
 
 To use the app is necessary to SignUp and Login. 
 After that you just need to fill the form about your daily routine and your dashboard will help you to follow your progress in the bootcamp.
+
 
 
 ## Contributing
